@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "485566967600",
+    "project_id": "calandy-fa51d",
+    "storage_bucket": "calandy-fa51d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485566967600:android:70d3cad3ed940eac2de2f5",
+        "android_client_info": {
+          "package_name": "com.example.calandy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZA-XaBWF4u5pU2IaFIY0067vyUyVs1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
